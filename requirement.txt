@@ -1,0 +1,4 @@
+ollama
+tqdm
+langchain
+langchain_ollama
