@@ -1,4 +1,6 @@
 ollama
+json
 tqdm
 langchain
-langchain_ollama
+langchain-ollama
+sqlite3
